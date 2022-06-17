@@ -9,6 +9,6 @@
       id: 2,
       title: "Test Again",
       body: "post body right here"
-     },
+     }
   ]
 }
